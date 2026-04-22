@@ -5,11 +5,11 @@ import random
 
 # Richard's ThingsBoard device tokens
 TOKENS = {
-    "WeatherSensor": "RBMWFwTXRKQWfq0lmiWE",
-    "SafetySensor": "ezdyK2mCxVyhxAR4izsj",
-    "TrafficSensor": "bxzEvYXK5VzFnHVuYcQf",
-    "UtilitySensor": "GHCoUm2IklKvvMYpFjEs",
-    "AirQualitySensor": "JqBmYIZDKImyL8g1y9G2"
+    "WeatherSensor": "These Tokens",
+    "SafetySensor": "are",
+    "TrafficSensor": "private",
+    "UtilitySensor": "Thank you",
+    "AirQualitySensor": "He he he he"
 }
 
 # Create MQTT clients for each device
